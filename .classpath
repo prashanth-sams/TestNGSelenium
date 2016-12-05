@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="libs/selenium-server-standalone-3.0.1 (2).jar"/>
+	<classpathentry kind="lib" path="/Users/prashanthsams/.m2/repository/org/testng/testng/6.9.10/testng-6.9.10.jar" sourcepath="/Users/prashanthsams/.m2/repository/org/testng/testng/6.9.10/testng-6.9.10-sources.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="org.testng"/>
+			<attribute name="maven.artifactId" value="testng"/>
+			<attribute name="maven.version" value="6.9.10"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
